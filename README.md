@@ -1,0 +1,1 @@
+This project consists of audio_emotion_detection
